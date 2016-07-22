@@ -2,7 +2,7 @@
 A simple Java chatting Server/Client app using UDP and Socket Networking with GUI.
 
 ### Usage:
-    Download jar files from [releases](https://github.com/AnasHarby/the-chat-app/releases
+    Download jar files from [releases](https://github.com/AnasHarby/the-chat-app/releases)
     
     ```
     $ the-chat-app java -jar Server.jar [port]
