@@ -2,7 +2,7 @@
 A simple Java chatting Server/Client app using UDP and Socket Networking with GUI.
 
 ### Usage:
-Download jar files from [releases](https://github.com/AnasHarby/the-chat-app/releases)
+Download jar files from [releases](https://github.com/AnasHarby/the-chat-app/releases).
 ```sh
 $ the-chat-app java -jar Server.jar [port]
 $ the-chat-app java -jar Client.jar
@@ -18,4 +18,4 @@ Use the GUI to bind to the IP/Port the server runs on.
 
 ### TODO:
 - Provide an adminstrator option for a client to run a room and invite other clients with and ID.
-- Add option attach images/audios.
+- Add option attach image/audio files.
