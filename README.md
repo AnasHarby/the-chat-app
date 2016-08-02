@@ -17,5 +17,5 @@ Use the GUI to bind to the IP/Port the server runs on.
 
 
 ### TODO:
-- Provide an adminstrator option for a client to run a room and invite other clients with and ID.
+- Provide an adminstrator option for a client to run a room and invite other clients with an ID.
 - Add option attach image/audio files.
